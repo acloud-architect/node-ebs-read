@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/acloud-developer/node-ebs-read#readme",
   "dependencies": {
-    "aws-sdk": "^2.673.0"
+    "aws-sdk": "^2.814.0"
   }
 }
